@@ -2,7 +2,7 @@
 Check out a shopping cart
     [Tags]  regression intake
     Sleep  2  it takes a little while to check out.
-    Pass execution
+    Pass execution  Done
 
 Check out a shopping cart with items not in stock
     [Tags]  regression
@@ -12,4 +12,4 @@ Check out a shopping cart with items not in stock
 Check out a shopping cart with creditcard
     [Tags]  regression
     Sleep  1  it takes a little while to check out.
-    Pass execution
+    Pass execution  Done
