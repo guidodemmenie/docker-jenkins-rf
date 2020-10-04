@@ -5,7 +5,7 @@ This repo is for demo purposes and to have a reference setup for learning and pl
 This reference can also be used if you have your own installation of Jenkins with robotframework installed on a node, but for ease of use some steps to have a working installation running in docker is included, together with a Dockerfile.
 
 ## Build and start your own docker container with Jenkins
->If you already have a working Jenkins please skip to the  section [Configure Jenkins for Robotframework](## Configure Jenkins for Robotframework).
+>If you already have a working Jenkins please skip to the  section [Configure Jenkins for Robotframework](#configure-jenkins-for-robotframework).
 
 Build your container including robotframework:
 
